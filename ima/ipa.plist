@@ -1,0 +1,37 @@
+# 商业转载请联系作者获得授权，非商业转载请注明出处。
+# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.
+# 协议(License)：署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)
+# 作者(Author)：Yremp
+# 链接(URL)：https://yremp.live/github-pages-ipa/
+# 来源(Source)：
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+             <string>https://rsugar.github.io/KeepAlive/jb841x32.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                     <string>live.yremp.Shadowrocket</string>
+                     <key>bundle-version</key>
+                    <string>2.1.12</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>Shadowrocket</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
